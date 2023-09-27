@@ -1,0 +1,53 @@
+#img{
+    display: inline;
+    margin-top: 10em;
+    float: right;
+    margin-right: 5em;
+}
+.img-produtos{
+    width: 400px;
+    height: 400px;
+}
+#description{
+    display: inline-block;
+    float: left;
+    width: 600px;
+    margin-top: 18em;
+    margin-left: 15em;
+}
+
+#cardapio{
+    text-align: center;
+    color: rgb(57, 203, 21);
+    -webkit-text-stroke: 0.5px #135f06;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#img-header{
+    display: center;
+    float: right;
+    margin-top: 1em;
+    width: 400px;
+    margin-right: 20em;
+}
+.header-text{
+    text-align: left;
+    color: #4af44a;
+    -webkit-text-stroke: #135f06;
+    margin-top: 2em;
+    margin-left: 8em;
+}
+#h-header{
+    margin-left: 10em;
+}
+#price{
+    color: rgb(255, 247, 0);
+    display: inline-block;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+    color: #4af44a;
+    -webkit-text-stroke: 0.5px #135f06;
+
+}
